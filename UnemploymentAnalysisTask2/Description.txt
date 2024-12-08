@@ -1,0 +1,2 @@
+Project Title: Unemployment Analysis
+In this project, I analyzed unemployment trends across various states and regions using Python. I cleaned and transformed the data, performed descriptive statistical analysis, and created engaging visualizations like correlation heatmaps, box plots, animated bar charts, and a sunburst chart. This helped uncover patterns in unemployment rates, regional disparities, and labor force participation. The project highlights my skills in data preprocessing, analysis, and creating interactive visualizations to present meaningful insights.
