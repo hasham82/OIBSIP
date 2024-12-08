@@ -1,0 +1,2 @@
+Project Title: Spam Detection System
+I built a machine learning model to classify messages as spam or not spam (ham). Using TF-IDF vectorization and a Naive Bayes classifier, I trained the model on a cleaned dataset and achieved high accuracy. I also implemented a function for real-time predictions, allowing users to identify spam messages dynamically. The model and vectorizer were saved for future use, making the system scalable and practical for real-world applications.
